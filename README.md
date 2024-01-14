@@ -8,7 +8,7 @@
 # PrimeiroProjeto 
 * Primeiro projeto é sobre lista ordenadas e não ordenas utilizamos a tag ol para criar uma lista ordenada, <BR>
 e dentro desta tag utilizamos a tag li que seignifica list-itens ou seja responsavel por listar os itens.
-* Existem 5 tipos de listas ordenadas, a que ordenamos por numeros então basta escrever <&lt>ol type='1'<&gt> <br>
+* Existem 5 tipos de listas ordenadas, a que ordenamos por numeros então basta escrever < ol type='1'> <br>
  para letras para maiusculas usamos A pra minusculas usamos a, para números romanos I ou i 
 
  # segundoProjeto  
