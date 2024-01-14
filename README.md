@@ -12,7 +12,7 @@ e dentro desta tag utilizamos a tag li que seignifica list-itens ou seja respons
  para letras para maiusculas usamos A pra minusculas usamos a, para números romanos I ou i 
 
  # segundoProjeto  
- *É a estrutura de uma página web simples utilizando tag de negrito como b de italico como em, hr para linhas horizontais.
+ * É a estrutura de uma página web simples utilizando tag de negrito como b de italico como em, hr para linhas horizontais.
 # terceiroProjeto
 * A função da tag img 
 # quartoProjeto 
