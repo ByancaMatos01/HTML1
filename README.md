@@ -47,9 +47,6 @@ Este exemplo resultará em uma tabela simples com duas colunas e três linhas.
  HTML, os formulários são criados usando a tag <form>. Os formulários são usados para coletar informações do usuário, como dados de contato, feedback, ou qualquer outra informação que seja necessária para interagir com o usuário. Aqui estão os elementos fundamentais que compõem um formulário:
 1. Tag <form>
 A tag <form> envolve todos os elementos do formulário e define onde os dados serão enviados após a submissão.
-<form action="/processar_formulario" method="post">
-  <!-- Conteúdo do formulário -->
-</form>
 action: Especifica para onde os dados do formulário serão enviados.
 method: Especifica o método HTTP a ser usado, geralmente "post" ou "get".
 2. Elementos de Entrada (<input>)
@@ -63,5 +60,3 @@ Botões são usados para enviar o formulário ou executar outras ações.
 <textarea>: Cria uma área de texto para entradas mais longas.
 <label>: Associa uma etiqueta a um elemento de formulário.
 Esses são apenas alguns exemplos básicos. Formulários em HTML podem ser bastante complexos, dependendo das necessidades do projeto. O JavaScript também pode ser usado para validar e manipular dados de formulários. É importante validar os dados do formulário tanto no lado do cliente quanto no lado do servidor para garantir a segurança e integridade dos dados.
-
-# Trilha do CSS básico
